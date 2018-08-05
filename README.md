@@ -9,33 +9,33 @@ Communication and Image Representation_, 2018. doi: 10.1016/j.jvcir.2018.05.024
 There are in total 27 descriptors in the toolbox.
 
 ### **LIST OF THE DESCRIPTORS**
-- Binary Pattern of Phase Congruency
-- Gradient Directional Pattern
-- Gradient Direction Pattern
-- Gradient Local Ternary Pattern
-- Improved Weber Binary Coding
-- Local Arc Pattern
-- Local Binary Pattern
-- Local Directional Pattern
-- Local Directional Pattern Variance
-- Local Directional Number Pattern
-- Local Directional Texture Pattern
-- Local Frequency Descriptor
-- Local Gabor Binary Pattern Histogram Sequence
-- Local Gabor Directional Pattern
-- Local Gradient Increasing Pattern
-- Local Gradient Pattern
-- Local Gabor Transitional Pattern
-- Local Monotonic Pattern
-- Local Phase Quantization
-- Local Ternary Pattern
-- Local Transitional Pattern
-- Monogenic Binary Coding
-- Median Binary Pattern
-- Median Robust Extended Local Binary Pattern
-- Median Ternary Pattern
-- Pyramid of Histogram of Oriented Gradients
-- Weber Local Descriptor
+- Binary Pattern of Phase Congruency (BPPC)
+- Gradient Directional Pattern (GDP)
+- Gradient Direction Pattern (GDP2)
+- Gradient Local Ternary Pattern (GLTeP)
+- Improved Weber Binary Coding (IWBC)
+- Local Arc Pattern (LAP)
+- Local Binary Pattern (LBP)
+- Local Directional Pattern (LDiP)
+- Local Directional Pattern Variance (LDiPv)
+- Local Directional Number Pattern (LDN)
+- Local Directional Texture Pattern (LDTP)
+- Local Frequency Descriptor (LFD)
+- Local Gabor Binary Pattern Histogram Sequence (LGBPHS)
+- Local Gabor Directional Pattern (LGDiP)
+- Local Gradient Increasing Pattern (LGIP)
+- Local Gradient Pattern (LGP)
+- Local Gabor Transitional Pattern (LGTrP)
+- Local Monotonic Pattern (LMP)
+- Local Phase Quantization (LPQ)
+- Local Ternary Pattern (LTeP)
+- Local Transitional Pattern (LTrP)
+- Monogenic Binary Coding (MBC)
+- Median Binary Pattern (MBP)
+- Median Robust Extended Local Binary Pattern (MRELBP)
+- Median Ternary Pattern (MTP)
+- Pyramid of Histogram of Oriented Gradients (PHOG)
+- Weber Local Descriptor (WLD)
 ---
 WHEN PUBLISHING A PAPER AS A RESULT OF RESEARCH CONDUCTED BY USING THIS CODE
 OR ANY PART OF IT, MAKE A REFERENCE TO THE FOLLOWING PUBLICATIONS:
