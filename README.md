@@ -1,7 +1,7 @@
 # ToolboxDESC
 A toolbox of histogram-based local descriptors
 
----
+-
 
 WHEN PUBLISHING A PAPER AS A RESULT OF RESEARCH CONDUCTED BY USING THIS CODE
 OR ANY PART OF IT, MAKE A REFERENCE TO THE FOLLOWING PUBLICATIONS:
@@ -26,8 +26,6 @@ all copies or substantial portions of the toolbox.
 The toolbox is provided "as is", without warranty of any kind.
  
 August 2018 
-
----
 
 LIST OF THE DESCRIPTORS
 
