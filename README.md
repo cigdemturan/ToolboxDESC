@@ -1,6 +1,6 @@
 # ToolboxDESC
 
-This toolbox includes implementation of the local descriptors described in the paper below:
+This toolbox includes the implementations of the local descriptors described in the paper below:
 
 - Cigdem Turan and Kin-Man Lam, “Histogram-based Local Descriptors for Facial 
 Expression Recognition (FER): A comprehensive Study,” _Journal of Visual 
