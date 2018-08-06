@@ -48,7 +48,7 @@ Communication and Image Representation_, 2018. doi: 10.1016/j.jvcir.2018.05.024
  
 _Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files, to deal
-in the Software without restriction, subject to the following conditions:_
+in the toolbox without restriction, subject to the following conditions:_
  
 - _The above copyright notice and this permission notice shall be included in all copies or substantial portions of the toolbox._
 - _The toolbox is provided "as is", without warranty of any kind._
